@@ -19,7 +19,7 @@ The objective of this project was to **monitor and analyze VPC network traffic**
 - 📊 **Provides Network Visibility** – Enables real-time monitoring of VPC traffic.  
 
 ## 📷 Project Snapshots  
-![Log-Insight-1](Log-Insight-1)  
+![Log-Insight](Log-Insight-1.png)  
 
 ---
 
