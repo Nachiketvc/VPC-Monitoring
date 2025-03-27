@@ -20,7 +20,7 @@ The objective of this project was to **monitor and analyze VPC network traffic**
 
 ## 📷 Project Snapshots  
 ![Log-Insight](Log-Insights-1.png)  
-
+![Log-Insight](Log-Insights.png) 
 ---
 
 
